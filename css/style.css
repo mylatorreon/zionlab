@@ -1297,4 +1297,8 @@ input[type="text"] {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
 /*# sourceMappingURL=style.css.map */
